@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First AWS Website</title>
+</head>
+<body>
+    <h1>Welcome to my AWS Project</h1>
+    <p>Built by [Kingsley Evans]</p>
+    <p>This is my first cloud project using S3 and CloudFront.</p>
+</body>
+</html>
